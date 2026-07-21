@@ -12,4 +12,4 @@ This project dives deep into the: 1) development of an interactive growth and op
 * **Data Visualization:** Executive KPI cards along with other financial and customr values, marketing and funnel performance, and operation, logisics, and customer support.
 ## How to View the Project
 * **For the Dashoard:** Download the "China Cross-Border E-Commerce CRM Dataset.xlsx" file above to test the interactive slicers
-* **For the Portfolio Discussions:** Download the "Portfolio Project - China Cross-Border E-Commerce Growht and Operations Dashboard.docx" above to read about the bottlenecks and the recommended actions to solve the company's systemic issues.
+* **For the Portfolio Discussions:** Download the "Portfolio Project - China Cross-Border E-Commerce Growht and Operations Dashboard.pdf" above to read about the bottlenecks and the recommended actions to solve the company's systemic issues.
