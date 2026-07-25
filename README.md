@@ -113,6 +113,7 @@ The dashboard serves as a real-time monitoring tool to track the success of thes
 * **Microsoft Excel:** Data cleaning and standardization, data modeling, pivot tables, dynamic slicers and dashboard
 * **Data Visualization:** Executive KPI cards along with other financial and customer values, marketing and funnel performance, and operation, logisics, and customer support.
 
-## How to View the Project
-* **For the Dashoard:** Download the "China Cross-Border E-Commerce CRM Dataset.xlsx" file above to test the interactive slicers
-* **For the Case Study Discussions:** Click the "Portfolio Project - China Cross-Border E-Commerce Growht and Operations Dashboard.pdf" above to read about the bottlenecks and the recommended actions in solving the company's systemic issues.
+ ## How to View the Project
+> **For the Dashoard:** Download the [China Cross-Border E-Commerce CRM Dataset.xlsx](https://github.com/joelleal-analytics/China-Cross-Border-E-Commerce-Growth-and-OperationsDashboard/blob/main/China%20Cross%20Border%20Ecommerce%20CRM%20Dataset.xlsx)  to test the interactive slicers
+
+> **For the Case Study Discussions:** While this page contains the complete case study  breakdown, you can view or download the raw PDF report directly from the top of this repository: [Portfio Project - China Cross-Border E-Commerce Growht and Operations Dashboard](https://github.com/joelleal-analytics/China-Cross-Border-E-Commerce-Growth-and-Operations-Dashboard/blob/main/Portfolio%20Project%20-%20China%20Cross-Border%20E-Commerce%20Growth%20and%20Operations%20Dashboard.pdf)
